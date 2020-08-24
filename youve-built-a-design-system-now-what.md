@@ -53,4 +53,5 @@ Adoption- people actually start using the system
 Designing data tables is hard :D Stress testing and communicating with the product teams. 
 
 First see what are all the needs that exist, from our product teams side. Involve them in critiques and get them to poke holes in the designs.
- 
+
+I agree, a cool practical talk. I think I have a clearer understanding on what is actually a design system and in such a big company as IBM.
