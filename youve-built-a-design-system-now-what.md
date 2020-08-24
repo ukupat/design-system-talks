@@ -35,4 +35,22 @@
   - Focus on product team needs (this helps you prioritize based on what you need soon vs what you might need in 1 year)
   
 Very practical talk that reminded me important aspects and teached me how such a big design system like Carbon is actually managed. Good stuff!
+
+### Villem's learnings
+
+Governance - how to make people use the design system?
+
+- Reporting issues very clear, the designer know what are the technical details that have to be in the issue report before he/she goes to the technical team. Probably very obvious to a company where there’s a whole team that is only working on the design system.
+
+- This governance issue seems like a bigger deal in bigger companies, but we actually already see it with AIA developments. Can imagine what it’s like to make a design system for whole teams of product designers to use.
+
+Adoption- people actually start using the system
+
+- Design systems shouldn’t be mandated. They should be a set of tools that makes other peoples lives easier.
+
+- Be available, provide documentation, show value (decrease inconsistencies, better accessibility, page performance etc.), overcommunicate = BUILDING TRUST.
+
+Designing data tables is hard :D Stress testing and communicating with the product teams. 
+
+First see what are all the needs that exist, from our product teams side. Involve them in critiques and get them to poke holes in the designs.
  
